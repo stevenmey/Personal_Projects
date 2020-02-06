@@ -1,0 +1,406 @@
+"","Player","Age","Tm","Pos","GP","G","A","PTS","Resids"
+"189","Nikita Kucherov\kucheni01",25,"TBL","RW",82,41,87,128,0.604930839641097
+"30","Patrice Bergeronergepa01",33,"BOS","C",65,32,47,79,0.438411210252142
+"219","Brad Marchand\marchbr03",30,"BOS","LW",79,36,64,100,0.406377895515711
+"228","Connor McDavid\mcdavco01",22,"EDM","C",78,41,75,116,0.385273272561678
+"322","Steven Stamkos\stamkst01",28,"TBL","C",82,45,53,98,0.383875341467134
+"261","David Pastrnak\pastrda01",22,"BOS","RW",66,38,43,81,0.343267593755962
+"222","Mitch Marner\marnemi01",21,"TOR","RW",82,26,68,94,0.313591651959646
+"271","Brayden Point\pointbr01",22,"TBL","C",79,41,51,92,0.298915292884222
+"71","Sidney Crosby\crosbsi01",31,"PIT","C",79,35,65,100,0.289989464735209
+"151","Jonathan Huberdeau\huberjo01",25,"FLA","C",82,30,62,92,0.275514205650756
+"117","Johnny Gaudreau\gaudrjo01",25,"CGY","LW",82,36,63,99,0.260906568208388
+"38","Travis Boydoydtr01",25,"WSH","C",53,5,15,20,0.256358726483978
+"83","Nic Dowd\dowdni01",28,"WSH","C",64,8,14,22,0.2543021161851
+"226","Auston Matthews\matthau01",21,"TOR","C",68,37,36,73,0.245216884906844
+"357","Austin Wagner\wagneau01",21,"LAK","LW",62,12,9,21,0.241511080810896
+"335","John Tavares	avarjo01",28,"TOR","C",82,47,41,88,0.237233502003231
+"84","Leon Draisaitl\draisle01",23,"EDM","C",82,50,55,105,0.227172526013818
+"118","Frederik Gauthier\gauthfr01",23,"TOR","C",70,3,11,14,0.225525474217045
+"168","Patrick Kane\kanepa01",30,"CHI","RW",81,44,66,110,0.224162241683971
+"73","Matt Cullen\cullema01",42,"PIT","C",71,7,13,20,0.207602617354737
+"135","Taylor Hall\hallta02",27,"NJD","LW",33,11,26,37,0.202817411839256
+"231","Timo Meier\meierti01",22,"SJS","RW",78,30,36,66,0.196406726395112
+"336","Teuvo Teravainen	eravte01",24,"CAR","LW",82,21,55,76,0.194089407885194
+"23","Aleksander Barkovarkoal01",23,"FLA","C",82,35,61,96,0.185168545379657
+"96","Tyler Ennis\ennisty01",29,"TOR","C",51,12,6,18,0.181121303587939
+"344","Matthew Tkachuk	kachma01",21,"CGY","LW",80,34,43,77,0.179833393666335
+"143","Tomas Hertl\hertlto01",25,"SJS","C",77,35,39,74,0.179355690318765
+"22","Ivan Barbashevarbaiv01",23,"STL","C",80,14,12,26,0.177451721406396
+"216","Evgeni Malkin\malkiev01",32,"PIT","C",68,21,51,72,0.171538668858538
+"50","Ryan Callahan\callary01",33,"TBL","RW",52,7,10,17,0.168232728764969
+"234","Sean Monahan\monahse01",24,"CGY","C",78,34,48,82,0.166959572383589
+"111","Michael Frolikrolimi01",30,"CGY","LW",65,16,18,34,0.166230965876999
+"64","Brett Connolly\connobr01",26,"WSH","RW",81,22,24,46,0.166135063652334
+"177","Phil Kessel\kesseph01",31,"PIT","RW",82,27,55,82,0.165369970234942
+"301","Andrew Shaw\shawan01",27,"MTL","C",63,19,28,47,0.164153872743972
+"57","Casey Cizikas\cizikca01",27,"NYI","C",73,20,13,33,0.163334253535901
+"287","Antoine Roussel
+oussan01",29,"VAN","LW",65,9,22,31,0.153832353348481
+"162","Mathieu Joseph\josepma01",21,"TBL","RW",70,13,13,26,0.153558359235695
+"193","Kevin Labanc\labanke01",23,"SJS","RW",82,17,39,56,0.153441669984743
+"204","Brendan Lemieux\lemiebr01",22,"TOT","LW",63,12,5,17,0.153204224503226
+"138","Jayce Hawryluk\hawryja01",23,"FLA","C",42,7,5,12,0.152691041753756
+"364","Blake Wheeler\wheelbl01",32,"WPG","RW",82,20,71,91,0.152592245902949
+"80","Max Domi\domima01",23,"MTL","LW",82,28,44,72,0.14819183638681
+"154","Mark Jankowski\jankoma01",24,"CGY","C",79,14,18,32,0.1473058817411
+"56","Anthony Cirelli\cirelan01",21,"TBL","C",82,19,20,39,0.139173989260057
+"161","Andreas Johnsson\johnsan01",24,"TOR","LW",73,20,23,43,0.138136066387755
+"99","Adam Erne\ernead01",23,"TBL","LW",65,7,13,20,0.135656292565003
+"187","David Krejci\krejcda01",32,"BOS","C",81,20,53,73,0.134847187292952
+"277","Mikko Rantanen
+antami01",22,"COL","RW",74,31,56,87,0.133405619882925
+"77","Alex DeBrincat\debrial01",21,"CHI","RW",82,41,35,76,0.128997377901005
+"257","Artemi Panarin\panarar01",27,"CBJ","LW",79,28,59,87,0.128752058201931
+"137","Garnet Hathaway\hathaga01",27,"CGY","RW",76,11,8,19,0.126617851036401
+"360","Austin Watson\watsoau01",27,"NSH","LW",37,7,9,16,0.126184962823863
+"66","Andrew Copp\coppan01",24,"WPG","C",69,11,14,25,0.125286504213829
+"88","Matt Duchene\duchema01",28,"TOT","C",73,31,39,70,0.124957383720729
+"286","Jack Roslovic
+osloja01",22,"WPG","C",77,9,15,24,0.122557142258339
+"188","Marcus Kruger\krugema01",28,"CHI","C",74,4,8,12,0.120300487853975
+"58","Kyle Clifford\cliffky01",28,"LAK","LW",72,11,10,21,0.119378643796728
+"102","Eric Fehrehrer01",33,"MIN","RW",72,7,8,15,0.116857982532207
+"13","Zach Aston-Reesestonza01",24,"PIT","C",43,8,9,17,0.115379205802997
+"323","Paul Stastny\stastpa01",33,"VEG","C",50,13,29,42,0.115330693830433
+"267","David Perron\perroda01",30,"STL","LW",57,23,23,46,0.110711478234061
+"208","Elias Lindholm\lindhel01",24,"CGY","C",81,27,51,78,0.110142996188567
+"120","Brian Gibbons\gibbobr02",30,"TOT","C",64,8,11,19,0.108675562680642
+"327","Mark Stone\stonema01",26,"TOT","RW",77,33,40,73,0.107450468766226
+"5","Sebastian Ahohose01",21,"CAR","C",82,30,53,83,0.106365595511487
+"356","Jakub Vranaranaja01",22,"WSH","LW",82,24,23,47,0.106329594384568
+"42","Jesper Brattrattje01",20,"NJD","W",51,8,25,33,0.105134452338105
+"330","Oskar Sundqvist\sundqos01",24,"STL","C",74,14,17,31,0.104929181893956
+"47","Andre Burakovskyurakan01",23,"WSH","LW",76,12,13,25,0.104037215113614
+"32","Oliver Bjorkstrandjorkol01",23,"CBJ","RW",77,23,13,36,0.103992324396346
+"341","Joe Thornton	hornjo01",39,"SJS","C",73,16,35,51,0.103900126855632
+"274","Alexander Radulov
+adulal01",32,"DAL","RW",70,29,43,72,0.103202483459826
+"273","Lukas Radil
+adillu01",28,"SJS","C",36,7,4,11,0.101601648900177
+"68","Logan Couture\coutulo01",29,"SJS","C",81,27,43,70,0.100480836790844
+"48","Paul Byronyronpa01",29,"MTL","C",56,15,16,31,0.0969809789160805
+"76","Phillip Danault\danauph01",25,"MTL","LW",81,12,41,53,0.0968490562172549
+"275","Michael Raffl
+afflmi01",30,"PHI","LW",67,6,12,18,0.0957951418898773
+"127","Michael Grabner\grabnmi01",31,"ARI","RW",41,9,7,16,0.0955091453024939
+"291","Derek Ryan
+yande01",32,"CGY","C",81,13,25,38,0.0951563238462758
+"217","Andrew Mangiapane\mangian01",22,"CGY","LW",44,8,5,13,0.0941931400736645
+"133","Jake Guentzel\guentja01",24,"PIT","C",82,40,36,76,0.0922186679076467
+"242","Matthew Nieto
+ietoma01",26,"COL","LW",64,4,19,23,0.0908808340926802
+"214","Nathan MacKinnon\mackina01",23,"COL","C",82,41,58,99,0.0906035204261065
+"126","Yanni Gourde\gourdya01",27,"TBL","C",80,22,26,48,0.0899878645042901
+"94","Jack Eichel\eicheja01",22,"BUF","C",77,28,54,82,0.0844545961519606
+"300","Brett Seney\seneybr01",22,"NJD","LW",51,5,8,13,0.0843453092573466
+"130","Derek Grant\grantde01",28,"TOT","C",56,4,10,14,0.082591852467497
+"6","Michael Amadiomadimi01",22,"LAK","C",43,6,7,13,0.0823182795711178
+"232","J.T. Miller\millejt01",25,"TBL","C",75,13,34,47,0.0823055026073872
+"209","Par Lindholm\lindhpa01",27,"TOT","C",65,1,12,13,0.0808940705694959
+"334","Tomas Tatar	atarto01",28,"MTL","C",80,25,33,58,0.0785664436982217
+"105","Valtteri Filppulailppva01",34,"NYI","C",72,17,14,31,0.0755000939159558
+"122","Claude Giroux\giroucl01",31,"PHI","C",82,22,63,85,0.0746669531234343
+"288","Carter Rowney
+owneca01",29,"ANA","RW",62,7,13,20,0.0736321408157196
+"192","Evgeny Kuznetsov\kuzneev01",26,"WSH","C",76,21,51,72,0.0716284679792048
+"132","Rocco Grimaldi\grimaro01",25,"NSH","C",53,5,8,13,0.0694674136741302
+"230","Greg McKegg\mckeggr01",26,"CAR","C",41,6,5,11,0.0675938464114783
+"248","Ryan O'Reilly\oreilry01",27,"STL","C",82,28,49,77,0.0659678059030219
+"139","Kevin Hayes\hayeske01",26,"TOT","RW",71,19,36,55,0.0657228864245813
+"213","Matt Luff\luffma01",21,"LAK","RW",33,8,3,11,0.0647434264385194
+"333","Vladimir Tarasenko	arasvl01",27,"STL","RW",76,33,35,68,0.0640207757556299
+"272","Jason Pominville\pominja01",36,"BUF","RW",73,16,15,31,0.0634862187479951
+"86","Brandon Dubinsky\dubinbr01",32,"CBJ","C",61,6,8,14,0.0623441441896065
+"121","Zemgus Girgensons\girgeze01",25,"BUF","C",72,5,13,18,0.0604106865294615
+"179","Alex Killorn\killoal01",29,"TBL","C",82,18,22,40,0.059324807431871
+"103","Micheal Ferlanderlami01",26,"CAR","LW",71,17,23,40,0.0555467385359766
+"251","Alex Ovechkin\ovechal01",33,"WSH","LW",81,51,38,89,0.0544841367518871
+"172","Ondrej Kase\kaseon01",23,"ANA","RW",30,11,9,20,0.0532719413549911
+"268","Elias Pettersson\petteel01",20,"VAN","C",71,28,38,66,0.0530279244209554
+"79","Jason Dickinson\dickija01",23,"DAL","C",67,6,16,22,0.0529250317016166
+"345","Jonathan Toews	oewsjo01",30,"CHI","C",82,35,46,81,0.0513719591675001
+"338","Robert Thomas	homaro01",19,"STL","C",70,9,24,33,0.050568276324525
+"199","Scott Laughton\laughsc01",24,"PHI","C",82,12,20,32,0.0504373354483749
+"332","Brandon Tanev	anevbr01",27,"WPG","LW",80,14,15,29,0.0504148653023724
+"372","Mika Zibanejad\zibanmi01",25,"NYR","C",82,30,44,74,0.0503649693017848
+"82","Joonas Donskoi\donskjo01",26,"SJS","RW",80,14,23,37,0.0501635310297882
+"316","Marcus Sorensen\sorenma01",26,"SJS","RW",80,17,13,30,0.050111367235006
+"328","Dylan Strome\stromdy01",21,"TOT","C",78,20,37,57,0.0479056147937396
+"90","Ryan Dzingel\dzingry01",26,"TOT","C",78,26,30,56,0.0469886304303748
+"125","Barclay Goodrow\goodrba01",25,"SJS","RW",82,7,10,17,0.0466552774312176
+"182","Travis Konecny\konectr01",21,"PHI","C",82,24,25,49,0.045925240104706
+"108","Marcus Folignooligma01",27,"MIN","LW",82,7,12,19,0.0445594496268818
+"206","Oscar Lindberg\lindbos02",27,"TOT","C",55,9,11,20,0.0432164517685907
+"294","Colton Sceviour\scevico01",29,"FLA","C",59,5,10,15,0.043071049581453
+"259","Cedric Paquette\paquece01",25,"TBL","C",80,13,4,17,0.0425720911380146
+"74","Austin Czarnik\czarnau01",26,"CGY","C",54,6,12,18,0.0410424386591626
+"44","Connor Brownrownco02",25,"TOR","RW",82,8,21,29,0.040179389630167
+"25","Jay Beagleeaglja01",33,"VAN","RW",57,3,10,13,0.0400702270462298
+"91","Cody Eakin\eakinco01",27,"VEG","C",78,22,19,41,0.0387331882680312
+"299","Tyler Seguin\seguity01",27,"DAL","C",82,33,47,80,0.038436127811003
+"289","Bryan Rust
+ustbr01",26,"PIT","RW",72,18,17,35,0.037592088781545
+"152","Zach Hyman\hymanza01",26,"TOR","C",71,21,20,41,0.0373987589829924
+"144","Vinnie Hinostroza\hinosvi01",24,"ARI","C",72,16,23,39,0.0355859287426042
+"293","Zach Sanford\sanfoza01",24,"STL","LW",60,8,12,20,0.0352479748479941
+"147","Mike Hoffman\hoffmmi02",29,"FLA","C",82,36,34,70,0.0344260340474074
+"194","Andrew Ladd\laddan01",33,"NYI","LW",26,3,8,11,0.0334889997533104
+"315","Carl Soderberg\soderca01",33,"COL","C",82,23,26,49,0.0332171995267863
+"72","Lawson Crouse\crousla01",21,"ARI","LW",81,11,14,25,0.0328662583346725
+"10","Josh Archibaldrchijo01",26,"ARI","RW",68,12,10,22,0.0327925119847171
+"46","Pavel Buchnevichuchnpa01",23,"NYR","LW",64,21,17,38,0.0319216021978034
+"21","Rudolfs Balcersalceru01",21,"OTT","LW",36,5,9,14,0.0314255100754536
+"227","Jared McCann\mccanja01",22,"TOT","C",78,19,16,35,0.0309063609795109
+"318","Daniel Sprong\spronda01",21,"TOT","RW",63,14,9,23,0.0301408659458472
+"18","Nicklas Backstromacksni02",31,"WSH","C",80,22,52,74,0.0298553278006094
+"350","James van Riemsdykanrija01",29,"PHI","LW",66,27,21,48,0.0294078132338702
+"89","Anthony Duclair\duclaan01",23,"TOT","LW",74,19,14,33,0.0286515966142807
+"260","Zach Parise\parisza01",34,"MIN","LW",74,28,33,61,0.0283948247833419
+"269","Brandon Pirri\pirribr01",27,"VEG","C",31,12,6,18,0.0279763033518497
+"178","Jujhar Khaira\khairju01",24,"EDM","LW",60,3,15,18,0.0267442335443697
+"75","Evgenii Dadonov\dadonev01",29,"FLA","RW",82,28,42,70,0.0252161982933578
+"37","Henrik Borgströmorgshe01",21,"FLA","C",50,8,10,18,0.0210224003711547
+"263","Joe Pavelski\paveljo01",34,"SJS","C",75,38,26,64,0.0207950994197716
+"207","Oskar Lindblom\lindbos01",22,"PHI","LW",81,17,16,33,0.020366485385975
+"362","Dale Weise\weiseda01",30,"TOT","RW",51,5,6,11,0.0194612042845512
+"224","Matt Martin\martima02",29,"NYI","LW",67,6,8,14,0.0182174012388709
+"355","Jakub Voracekoracja01",29,"PHI","RW",78,20,46,66,0.0177855664567562
+"43","Troy Brouwerrouwtr01",33,"FLA","RW",75,12,9,21,0.0157472792794949
+"31","Tyler Bertuzziertuty01",23,"DET","LW",73,21,26,47,0.0152514943201803
+"282","Brad Richardson
+ichabr02",33,"ARI","C",66,19,8,27,0.0139160296980082
+"266","Mathieu Perreault\perrema01",31,"WPG","C",82,15,15,30,0.0124772319850364
+"237","Riley Nash
+ashri02",29,"CBJ","C",78,3,9,12,0.0117644976053816
+"265","Brendan Perlini\perlibr01",22,"TOT","LW",68,14,7,21,0.0115618833169731
+"247","Gustav Nyquist
+yquigu01",29,"TOT","RW",81,22,38,60,0.0105730565472587
+"343","Brady Tkachuk	kachbr01",19,"OTT","LW",71,22,23,45,0.00967812729564616
+"14","Andreas Athanasiouthanan01",24,"DET","C",76,30,24,54,0.00930206605187026
+"51","Matt Calvert\calvema01",29,"COL","LW",82,11,15,26,0.00818800766828215
+"170","Melker Karlsson\karlsme01",28,"SJS","C",79,12,4,16,0.00775841224384762
+"304","Kiefer Sherwood\sherwki01",23,"ANA","RW",50,6,6,12,0.00665750982764524
+"93","Nikolaj Ehlers\ehlerni01",22,"WPG","LW",62,21,16,37,0.00662269817904836
+"191","Sean Kuraly\kuralse01",26,"BOS","C",71,8,13,21,0.00631803074283568
+"166","David Kampf\kampfda01",24,"CHI","C",63,4,15,19,0.0059413449989471
+"235","Tyler Motte\mottety01",23,"VAN","C",74,9,7,16,0.00543206609912434
+"167","Evander Kane\kaneev01",27,"SJS","LW",75,30,26,56,0.00535753285326859
+"181","Leo Komarov\komarle01",32,"NYI","C",82,6,20,26,0.00484726854215066
+"15","Cam Atkinsontkinca01",29,"CBJ","RW",80,41,28,69,0.00419896112548935
+"34","Mikkel Boedkeroedkmi01",29,"OTT","RW",71,7,28,35,0.00379787808158782
+"169","Kasperi Kapanen\kapanka01",22,"TOR","RW",78,20,24,44,0.00281692428476337
+"160","Tyler Johnson\johnsty01",28,"TBL","C",80,29,18,47,0.00276119580950709
+"342","Chris Tierney	iernch01",24,"OTT","C",81,9,39,48,0.000685212043606295
+"69","Sean Couturier\coutuse01",26,"PHI","C",80,33,43,76,0.000399359329012163
+"197","Dylan Larkin\larkidy01",22,"DET","C",76,32,41,73,0.000370089149049384
+"348","Alex Tuch	uchal01",22,"VEG","RW",74,20,32,52,-0.000875190872150882
+"312","Reilly Smith\smithre01",27,"VEG","RW",74,19,34,53,-0.00132593949860338
+"351","Thomas Vanekanekth01",35,"DET","LW",64,16,20,36,-0.00530347751468941
+"373","Mats Zuccarello\zuccama01",31,"TOT","LW",48,12,28,40,-0.00760017334094695
+"295","Mark Scheifele\scheima01",25,"WPG","C",82,38,46,84,-0.00762533531724232
+"60","Andrew Cogliano\coglian01",31,"TOT","LW",78,6,11,17,-0.00839689608523992
+"306","Jakob Silfverberg\silfvja01",28,"ANA","LW",73,24,19,43,-0.00867370932038127
+"8","Sven Andrighettondrisv01",25,"COL","RW",64,7,10,17,-0.00871092121600994
+"245","Ryan Nugent-Hopkins
+ugenry01",25,"EDM","C",82,28,41,69,-0.00894727297271341
+"240","Nino Niederreiter
+iedeni01",26,"TOT","RW",82,23,30,53,-0.012606325059804
+"368","Tom Wilson\wilsoto01",24,"WSH","RW",63,22,18,40,-0.0129500582330054
+"280","Ryan Reaves
+eavery01",32,"VEG","RW",80,9,11,20,-0.0129779355915477
+"165","Dominik Kahun\kahundo01",23,"CHI","C",82,13,24,37,-0.0155972384823677
+"59","Cal Clutterbuck\cluttca01",31,"NYI","RW",73,8,15,23,-0.0165615978505513
+"244","Tomas Nosek
+osekto01",26,"VEG","C",68,8,9,17,-0.0165881457703537
+"12","Viktor Arvidssonrvidvi01",25,"NSH","LW",58,34,14,48,-0.0168470902148102
+"49","Drake Caggiula\caggidr01",24,"TOT","LW",55,12,11,23,-0.0176474556725747
+"284","Nick Ritchie
+itchni01",23,"ANA","LW",60,9,22,31,-0.0180672932077939
+"136","Ryan Hartman\hartmry01",24,"TOT","RW",83,12,14,26,-0.0189327846753172
+"176","Alexander Kerfoot\kerfoal01",24,"COL","C",78,15,27,42,-0.020189604142612
+"4","Kenny Agostinogostke01",26,"TOT","LW",63,6,18,24,-0.0209108249084477
+"302","Riley Sheahan\sheahri01",27,"TOT","C",82,9,10,19,-0.0212293505981251
+"358","Chris Wagner\wagnech01",27,"BOS","C",76,12,7,19,-0.0215840051376798
+"7","Josh Andersonnderjo05",24,"CBJ","RW",82,27,20,47,-0.0221165703020924
+"196","Gabriel Landeskog\landega01",26,"COL","LW",73,34,41,75,-0.0231809267711754
+"20","Josh Baileyailejo01",29,"NYI","C",82,16,40,56,-0.023486072784233
+"369","Miles Wood\woodmi01",23,"NJD","LW",63,10,14,24,-0.0246795742097009
+"308","Dominik Simon\simondo01",24,"PIT","C",71,8,20,28,-0.0251171670617595
+"252","Magnus Paajarvi\paajama01",27,"OTT","LW",80,11,8,19,-0.0263936365125654
+"114","Brendan Gallagher\gallabr01",26,"MTL","RW",82,33,19,52,-0.0269776744313212
+"61","Blake Coleman\colembl01",27,"NJD","C",78,22,14,36,-0.0290486039927378
+"140","Danton Heinen\heineda01",23,"BOS","C",77,11,23,34,-0.0313682234067663
+"229","Brock McGinn\mcginbr01",24,"CAR","LW",82,10,16,26,-0.0319077472875047
+"305","Devin Shore\shorede01",24,"TOT","C",76,10,19,29,-0.0322926728351627
+"296","Brayden Schenn\schenbr01",27,"STL","C",72,17,37,54,-0.0329357117884653
+"255","Ondrej Palat\palaton01",27,"TBL","LW",64,8,26,34,-0.0345589543584826
+"352","Frank Vatranoatrafr01",24,"FLA","LW",81,24,15,39,-0.0356173078144733
+"365","Colin White\whiteco02",22,"OTT","C",71,14,27,41,-0.0372230542497355
+"52","Ryan Carpenter\carpery01",28,"VEG","C",68,5,13,18,-0.038244155421463
+"367","Colin Wilson\wilsoco01",29,"COL","C",65,12,15,27,-0.0387888066343574
+"87","Pierre-Luc Dubois\duboipi01",20,"CBJ","LW",82,27,34,61,-0.0394850687635721
+"215","Denis Malgin\malgide01",22,"FLA","C",50,7,9,16,-0.0398818360502252
+"326","Chandler Stephenson\stephch02",24,"WSH","C",64,5,6,11,-0.0420620496776615
+"110","Filip Forsbergorsbfi01",24,"NSH","C",64,28,22,50,-0.0424241128508844
+"98","Joel Eriksson Ek\eriksjo02",22,"MIN","C",58,7,7,14,-0.0434786052236048
+"270","Tyler Pitlick\pitlity01",27,"DAL","C",47,8,4,12,-0.0438187301112763
+"292","Brandon Saad\saadbr01",26,"CHI","LW",80,23,24,47,-0.0450542090412325
+"198","Johan Larsson\larssjo02",26,"BUF","LW",73,6,8,14,-0.0458351110467775
+"27","Pierre-Edouard Bellemareellepi01",33,"VEG","LW",76,6,9,15,-0.0462665303988998
+"3","Noel Acciaricciano01",27,"BOS","C",72,6,8,14,-0.0468123958209255
+"250","T.J. Oshie\oshietj01",32,"WSH","C",69,25,29,54,-0.0472871037075703
+"29","Sam Bennettennesa01",22,"CGY","C",71,13,14,27,-0.0487174056068066
+"278","Michael Rasmussen
+asmumi01",19,"DET","C",62,8,10,18,-0.0489545636915089
+"24","Mathew Barzalarzama01",21,"NYI","C",82,18,44,62,-0.0490813735972044
+"148","Patric Hornqvist\hornqpa01",32,"PIT","RW",69,18,19,37,-0.0495687069971179
+"211","Adam Lowry\lowryad01",25,"WPG","LW",78,12,11,23,-0.0496067345085616
+"210","Bryan Little\littlbr01",31,"WPG","RW",82,15,26,41,-0.0497847558693895
+"309","Colton Sissons\sissoco01",25,"NSH","C",75,15,15,30,-0.0536949575081791
+"218","Anthony Mantha\manthan01",24,"DET","RW",67,25,23,48,-0.055382134203557
+"39","Brian Boyleoylebr01",34,"TOT","C",73,18,6,24,-0.0562262096631523
+"36","Nick Boninooninni01",30,"NSH","C",81,17,18,35,-0.0575675604953438
+"81","Ryan Donato\donatry01",22,"TOT","C",56,10,15,25,-0.0580423526700559
+"164","Nazem Kadri\kadrina01",28,"TOR","C",73,16,28,44,-0.0590691260509867
+"324","Alex Steen\steenal01",34,"STL","C",65,10,17,27,-0.0627265906510092
+"239","Brock Nelson
+elsobr01",27,"NYI","C",82,25,28,53,-0.062869415382061
+"85","Jonathan Drouin\drouijo01",23,"MTL","LW",81,18,35,53,-0.0634574014472261
+"17","Mikael Backlundacklmi01",29,"CGY","C",77,21,26,47,-0.0637953968263807
+"290","Bobby Ryan
+yanbo01",31,"OTT","LW",78,15,27,42,-0.0642970838434901
+"313","Zack Smith\smithza01",30,"OTT","C",70,9,19,28,-0.064910118765929
+"78","Jake Debrusk\debruja01",22,"BOS","LW",68,27,15,42,-0.0656625661624342
+"220","Jonathan Marchessaultudymjo01",28,"VEG","C",82,25,34,59,-0.066070668086646
+"163","Tyson Jost\jostty01",20,"COL","C",70,11,15,26,-0.0662378066003381
+"97","Loui Eriksson\erikslo01",33,"VAN","LW",81,11,18,29,-0.0668171365114026
+"279","Ty Rattie
+attity01",25,"EDM","RW",50,4,7,11,-0.0671633040259665
+"134","Carl Hagelin\hagelca01",30,"TOT","LW",58,5,14,19,-0.0680353731171166
+"158","Ryan Johansen\johanry01",26,"NSH","C",80,14,50,64,-0.0698059953493012
+"141","Darren Helm\helmda01",32,"DET","C",61,7,10,17,-0.0701177479812284
+"339","Nate Thompson	hompna01",34,"TOT","C",78,5,8,13,-0.0703107107542022
+"186","Chris Kreider\kreidch01",27,"NYR","C",79,28,24,52,-0.07063008668989
+"184","Jesperi Kotkaniemi\kotkaje01",18,"MTL","C",79,11,23,34,-0.0725281925514655
+"157","Boone Jenner\jennebo01",25,"CBJ","C",77,16,22,38,-0.0729035149543398
+"115","Conor Garland\garlaco01",22,"ARI","RW",47,13,5,18,-0.0730665188747569
+"201","Artturi Lehkonen\lehkoar01",23,"MTL","LW",82,11,20,31,-0.0733229155284881
+"40","Tyler Bozakozakty01",32,"STL","C",72,13,25,38,-0.0749403654274596
+"225","Jordan Martinook\martijo01",26,"CAR","LW",82,15,10,25,-0.0763096997962454
+"205","Trevor Lewis\lewistr01",32,"LAK","C",44,3,9,12,-0.0770108619734042
+"171","William Karlsson\karlswi01",26,"VEG","C",82,24,32,56,-0.07834386601595
+"173","Zack Kassian\kassiza01",28,"EDM","RW",79,15,11,26,-0.0790345283066035
+"331","Andrei Svechnikov\svechan01",18,"CAR","RW",82,20,17,37,-0.0797544217249052
+"95","Lars Eller\ellerla01",29,"WSH","C",81,13,23,36,-0.0804360862630032
+"321","Drew Stafford\staffdr01",33,"NJD","RW",57,5,8,13,-0.0809085455555019
+"112","Sam Gagner\gagnesa01",29,"TOT","C",32,6,7,13,-0.084221493227696
+"329","Ryan Strome\stromry01",25,"TOT","C",81,19,16,35,-0.0845813833728087
+"116","Adam Gaudette\gaudead01",22,"VAN","C",56,5,7,12,-0.0852599894854235
+"65","Kyle Connor\connoky01",22,"WPG","LW",82,34,32,66,-0.0866141910598586
+"145","Roope Hintz\hintzro01",22,"DAL","LW",58,9,13,22,-0.087346509172233
+"236","Vladislav Namestnikov
+amesvl01",26,"NYR","C",78,11,20,31,-0.0887005830358304
+"123","Luke Glendening\glendlu01",29,"DET","C",78,10,13,23,-0.0902709830251188
+"129","Mikael Granlund\granlmi01",26,"TOT","C",79,16,38,54,-0.0903686920484211
+"337","Troy Terry	errytr01",21,"ANA","C",32,4,9,13,-0.0918426746515383
+"146","Nico Hischier\hischni01",20,"NJD","C",69,17,30,47,-0.0921044478425603
+"67","Nick Cousins\cousini01",25,"ARI","C",81,7,20,27,-0.0921754830555996
+"370","Pavel Zacha\zachapa01",21,"NJD","C",61,13,12,25,-0.0923265910967981
+"361","Jordan Weal\wealjo01",26,"TOT","C",63,8,13,21,-0.0933100778546748
+"249","Kyle Okposo\okposky01",30,"BUF","RW",78,14,15,29,-0.0945242359619821
+"281","Sam Reinhart
+einhsa01",23,"BUF","C",82,22,43,65,-0.0946127999003962
+"107","Warren Foegeleoegewa01",22,"CAR","LW",77,10,5,15,-0.095135554934084
+"253","Max Pacioretty\pacioma01",30,"VEG","LW",66,22,18,40,-0.0952312763610883
+"285","Evan Rodrigues
+odriev01",25,"BUF","C",74,9,20,29,-0.0960454617145153
+"100","Radek Faksaaksara01",25,"DAL","C",81,15,15,30,-0.097271711815492
+"310","Jeff Skinner\skinnje01",26,"BUF","C",82,40,23,63,-0.0977062824778627
+"200","Anders Lee\leean01",28,"NYI","C",82,28,23,51,-0.0993730973326032
+"264","Tanner Pearson\pearsta01",26,"TOT","LW",80,18,9,27,-0.100683219312315
+"246","William Nylander
+ylanwi01",22,"TOR","C",54,7,20,27,-0.101390834159085
+"366","Justin Williams\williju01",37,"CAR","RW",82,23,30,53,-0.10160737144189
+"19","Sven Baertschiaertsv01",26,"VAN","LW",26,9,5,14,-0.103162765480291
+"262","Nolan Patrick\patrino01",20,"PHI","C",72,13,18,31,-0.103641706266017
+"317","Jason Spezza\spezzja01",35,"DAL","C",76,8,19,27,-0.104668573257471
+"159","Marcus Johansson\johanma03",28,"TOT","C",58,13,17,30,-0.105007387293232
+"283","Tobias Rieder
+iedeto01",26,"EDM","C",67,0,11,11,-0.105175876782777
+"311","Craig Smith\smithcr01",29,"NSH","C",76,21,17,38,-0.105992345616622
+"142","Adam Henrique\henriad01",28,"ANA","C",82,18,24,42,-0.106684846550987
+"180","Mikko Koivu\koivumi01",35,"MIN","C",48,8,21,29,-0.107722713549238
+"155","Mattias Janmark\janmama02",26,"DAL","C",81,6,19,25,-0.108391705927881
+"28","Jamie Bennennja01",29,"DAL","LW",78,27,26,53,-0.10901601796278
+"16","David Backesackeda01",34,"BOS","C",70,7,13,20,-0.109395581531106
+"119","Ryan Getzlaf\getzlry01",33,"ANA","C",67,14,34,48,-0.11007611321118
+"9","Artem Anisimovnisiar01",30,"CHI","C",78,15,22,37,-0.110366286911435
+"314","Vladimir Sobotka\sobotvl01",31,"BUF","C",69,5,8,13,-0.110380415067063
+"202","Brendan Leipsic\leipsbr01",24,"TOT","LW",62,7,16,23,-0.11175417462542
+"113","Alex Galchenyuk\galchal01",24,"ARI","C",72,19,22,41,-0.113445875791657
+"359","Lucas Wallmark\wallmlu01",23,"CAR","C",81,10,18,28,-0.113493053606289
+"256","Kyle Palmieri\palmiky01",27,"NJD","RW",74,27,23,50,-0.116186006722667
+"353","Jimmy Veseyeseyji02",25,"NYR","LW",81,17,18,35,-0.116278385999756
+"150","Brett Howden\howdebr01",20,"NYR","C",66,6,17,23,-0.11716226950269
+"33","Nick Bjugstadjugsni01",26,"TOT","C",64,14,12,26,-0.11951352054912
+"241","Frans Nielsen
+ielsfr01",34,"DET","C",72,10,25,35,-0.12181607986499
+"131","Jordan Greenway\greenjo02",21,"MIN","LW",81,12,12,24,-0.122276510426004
+"320","Jordan Staal\staaljo01",30,"CAR","C",50,11,17,28,-0.124317125992327
+"45","Dustin Brownrowndu01",34,"LAK","RW",72,22,29,51,-0.124565305066906
+"371","Travis Zajac\zajactr01",33,"NJD","C",80,19,27,46,-0.124648410114499
+"35","Brock Boeseroesebr01",21,"VAN","RW",69,26,30,56,-0.125011601814374
+"2","Pontus Abergbergpo01",25,"TOT","LW",59,12,13,25,-0.126026174781157
+"128","Markus Granlund\granlma01",25,"VAN","C",77,12,10,22,-0.127154617522447
+"156","Calle Jarnkrok\jarnkca01",27,"NSH","C",79,10,16,26,-0.129972477764734
+"175","Adrian Kempe\kempead01",22,"LAK","LW",81,12,16,28,-0.131567583465664
+"223","Pat Maroon\maroopa01",30,"STL","LW",74,10,18,28,-0.133657963947136
+"303","Conor Sheary\shearco01",26,"BUF","LW",78,14,20,34,-0.133888296507421
+"354","Jake Virtanenirtaja01",22,"VAN","RW",70,15,10,25,-0.134962401800004
+"243","Joakim Nordstrom
+ordsjo02",26,"BOS","C",70,7,5,12,-0.135460699551059
+"340","Tage Thompson	hompta01",21,"BUF","C",65,7,5,12,-0.137849181449915
+"55","Filip Chytil\chytifi01",19,"NYR","C",75,11,12,23,-0.139109550520623
+"11","Joel Armiarmiajo01",25,"MTL","RW",57,13,10,23,-0.144064308164492
+"185","Ilya Kovalchuk\kovalil01",35,"LAK","LW",64,16,18,34,-0.144168847413012
+"101","Jesper Fastastje01",27,"NYR","RW",66,8,12,20,-0.146143829648105
+"319","Eric Staal\staaler01",34,"MIN","C",81,22,30,52,-0.148214587025615
+"212","Milan Lucic\lucicmi01",30,"EDM","LW",79,6,14,20,-0.149192532063874
+"276","Rickard Rakell
+akelri01",25,"ANA","RW",69,18,25,43,-0.150286819840149
+"62","Blake Comeau\comeabl01",32,"DAL","RW",77,7,11,18,-0.152421007688298
+"54","Alex Chiasson\chiasal01",28,"EDM","RW",73,22,16,38,-0.154835466556307
+"1","Justin Abdelkaderbdelju01",31,"DET","LW",71,6,13,19,-0.15745573520776
+"190","Luke Kunin\kuninlu01",21,"MIN","C",49,6,11,17,-0.164733136371599
+"258","Richard Panik\panikri01",27,"ARI","RW",75,14,19,33,-0.16619220462513
+"363","Alexander Wennberg\wennbal01",24,"CBJ","C",75,2,23,25,-0.168187524970079
+"104","Kevin Fialaialake01",22,"TOT","LW",83,13,26,39,-0.170487955069092
+"195","Patrik Laine\lainepa01",20,"WPG","RW",82,30,20,50,-0.172651728112433
+"297","Nick Schmaltz\schmani01",22,"TOT","C",40,7,18,25,-0.176282863338612
+"124","Nikolay Goldobin\goldoni01",23,"VAN","LW",63,7,20,27,-0.182106627228372
+"347","Vincent Trocheck	rochvi01",25,"FLA","C",55,10,24,34,-0.182225120267841
+"374","Jason Zucker\zuckeja01",27,"MIN","LW",81,21,21,42,-0.183251581638682
+"41","Derick Brassardrassde01",31,"TOT","C",70,14,9,23,-0.185238834488936
+"221","Patrick Marleau\marlepa01",39,"TOR","C",82,16,21,37,-0.186391197796918
+"233","Casey Mittelstadt\mitteca01",20,"BUF","C",77,12,13,25,-0.187811557609672
+"26","Anthony Beauvilliereauvan01",21,"NYI","LW",81,18,10,28,-0.188630759819203
+"63","J.T. Compher\comphj.01",23,"COL","LW",66,16,16,32,-0.188643592527381
+"106","Christian Fischerischch01",21,"ARI","RW",71,11,7,18,-0.191498012767263
+"109","Nick Folignooligni01",31,"CBJ","LW",73,17,18,35,-0.193052186241045
+"149","Bo Horvat\horvabo01",23,"VAN","C",82,27,34,61,-0.197000851734976
+"203","Josh Leivo\leivojo01",25,"TOT","LW",76,14,10,24,-0.197017738162474
+"70","Charlie Coyle\coylech01",26,"TOT","C",81,12,22,34,-0.197656533364264
+"183","Anze Kopitar\kopitan01",31,"LAK","C",81,22,38,60,-0.209060813492943
+"92","Jordan Eberle\eberljo01",28,"NYI","RW",78,19,18,37,-0.219864693553854
+"153","Alex Iafallo\iafalal01",25,"LAK","C",82,15,18,33,-0.221277085324787
+"349","Kyle Turris	urriky01",29,"NSH","C",55,7,16,23,-0.235366936183608
+"298","Jaden Schwartz\schwaja01",26,"STL","C",69,11,25,36,-0.23999822607821
+"346","Tyler Toffoli	offoty01",26,"LAK","C",82,13,21,34,-0.24240169396844
+"307","Wayne Simmonds\simmowa01",30,"TOT","RW",79,17,13,30,-0.244574515926842
+"238","James Neal
+ealja01",31,"CGY","LW",63,7,12,19,-0.266654681777277
+"254","Jean-Gabriel Pageau\pageaje01",26,"OTT","C",39,4,8,12,-0.270497481226772
+"325","Derek Stepan\stepade01",28,"ARI","C",72,15,20,35,-0.277573027694688
+"53","Jeff Carter\carteje01",34,"LAK","C",76,13,20,33,-0.287808150840766
+"174","Clayton Keller\kellecl01",20,"ARI","C",82,14,33,47,-0.292382153104392
